@@ -22,7 +22,7 @@ redirect_from:
 
  My primary research interest is large language model based agents. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn](guangyiliu@zju.edu.cn) 😃
 
-🏷️Download my [CV-en](./ZJU_GuangyiLiu.pdf).
+🏷️Download my [CV-en](./ZJU_GuangyiLiu_CV.pdf).
 
 # 🔥 News
 
