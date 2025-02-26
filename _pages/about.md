@@ -20,7 +20,7 @@ redirect_from:
 
  I am **Yukai Han (韩玉凯)**, a M.E. candidate at [University of Science and Technology of China](https://www.zju.edu.cn/).
  **本科就读于南京航空航天大学，舍友是朱量（北航大牛，院士），印子维（南航书记，院士），吴旺勤（企业老总，财阀）**
- My primary research interest is large language model based agents. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn](guangyiliu@zju.edu.cn) 😃
+ My primary research interest is large language model based agents. If you have any academic problems or seeking any form of cooperation, please feel free to email me at [guangyiliu@zju.edu.cn](2606355537@qq.com) 😃
 
 # 🔥 News
 
