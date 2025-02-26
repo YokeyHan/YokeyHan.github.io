@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guangyi Liu(刘广义)"
+title                    : "Yukai Han(韩玉凯)"
 description              : ""
-repository               : "lgy0404/lgy0404.github.io"
+repository               : "YokeyHan/YokeyHan.github.io"
 google_scholar_stats_use_cdn : false  #true
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guangyi Liu"
-  avatar           : "images/刘广义.png"
-  bio              : "M.E. candidate at ZJU"
-  location         : "Hangzhou, China"
+  name             : "Yukai Han"
+  avatar           : "images/韩玉凯.png"
+  bio              : "M.E. candidate at USTC"
+  location         : "HeFei, China"
   employer         : #"https://blog.csdn.net/m0_49637401?type=blog"
   pubmed           : #"https://blog.csdn.net/m0_49637401?type=blog"
   googlescholar    : #"https://blog.csdn.net/m0_49637401?type=blog"
@@ -37,7 +37,7 @@ author:
   flickr           : #"https://blog.csdn.net/m0_49637401?type=blog"
   facebook         : #"https://blog.csdn.net/m0_49637401?type=blog"
   foursquare       : #"https://blog.csdn.net/m0_49637401?type=blog"
-  github           : "lgy0404"
+  github           : "YokeyHan"
   google_plus      : #"https://blog.csdn.net/m0_49637401?type=blog"
   keybase          : #"https://blog.csdn.net/m0_49637401?type=blog"
   instagram        : #"https://blog.csdn.net/m0_49637401?type=blog"
